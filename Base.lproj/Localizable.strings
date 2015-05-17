@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  SoftLocal
+
+  Created by Kyle Williamson on 25/02/2015.
+  Copyright (c) 2015 Kyle Williamson. All rights reserved.
+*/
+
+//ViewController
+"vc_title"="Please choose the desired unit of measurement";
+"imperial_btn"="Imperial (pounds and inches)";
+"metric_btn"="Metric (kilograms and centimeters)";
+
+// InputViewController
+"input_title"="Please fill in all the fields";
+"input_btn"="Calculate";
+
+//Imperial
+"weight_title_imp"="Your weight (lb)";
+"height_title_imp"="Your height (in)";
+
+//Metric
+"weight_title_met"="Your weight (kg)";
+"height_title_met"="Your height (cm)";

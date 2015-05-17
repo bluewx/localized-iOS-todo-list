@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  SoftLocal
+
+  Created by Kyle Williamson on 25/02/2015.
+  Copyright (c) 2015 Kyle Williamson. All rights reserved.
+*/
+
+//ViewController
+"vc_title"=" Bitte wählen Sie die gewünschte Maßeinheit";
+"imperial_btn" = "Imperial ( Pfund und Zoll ) ";
+"metric_btn" = "Metric ( Kilogramm und Zentimeter )";
+
+// InputViewController
+"input_title"="";
+"input_btn"="";
+
+//Imperial
+"weight_title_imp"="";
+"height_title_imp"="";
+
+//Metric
+"weight_title_met"="";
+"height_title_met"="";
