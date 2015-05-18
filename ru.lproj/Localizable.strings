@@ -1,0 +1,30 @@
+/* 
+  Localizable.strings
+  SoftwareLocalisationProject
+
+  Created by Kyle Williamson on 27/03/2015.
+  Copyright (c) 2015 Kyle Williamson. All rights reserved.
+*/
+"ToDoList_title" = "Чтобы сделать список приложений";
+"ToDoList_synchronise" = "синхронизировать";
+
+"AddMenu_subtext" = "Выберите тип примечания , который вы хотите создать";
+
+"button_ok" = "хорошо";
+"label_content" = "содержание";
+"label_add" = "добавлять";
+"label_edit" = "редактировать";
+"label_title" = "название";
+"label_addItem" = "Добавить элемент";
+"label_cancel" = "отменить";
+"label_errorTitle" = "ошибка";
+"label_errorMessage" = "Неверный ввод";
+"notification_body" = "Нажмите здесь, чтобы получить ссылку на ваши заметки";
+
+"AddNote_title" = "Добавить комментарий";
+"EditNote_title" = "Редактировать Примечание";
+
+"AddList_title" = "Добавить список";
+"EditList_title" = "Изменить список";
+
+"AddList_subtext" = "Не найдено Нет , чтобы добавить новый элемент нажмите : ";

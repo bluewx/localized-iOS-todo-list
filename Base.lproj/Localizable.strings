@@ -1,24 +1,30 @@
 /* 
   Localizable.strings
-  SoftLocal
+  SoftwareLocalisationProject
 
-  Created by Kyle Williamson on 25/02/2015.
+  Created by Kyle Williamson on 27/03/2015.
   Copyright (c) 2015 Kyle Williamson. All rights reserved.
 */
+"ToDoList_title" = "To Do List App";
+"ToDoList_synchronise" = "Synchronise";
 
-//ViewController
-"vc_title"="Please choose the desired unit of measurement";
-"imperial_btn"="Imperial (pounds and inches)";
-"metric_btn"="Metric (kilograms and centimeters)";
+"AddMenu_subtext" = "Select the type of note you wish to create";
 
-// InputViewController
-"input_title"="Please fill in all the fields";
-"input_btn"="Calculate";
+"button_ok" = "OK";
+"label_content" = "Content";
+"label_add" = "Add";
+"label_edit" = "Edit";
+"label_title" = "Title";
+"label_addItem" = "Add Item"; 
+"label_cancel" = "Cancel";
+"label_errorTitle" = "Error";
+"label_errorMessage" = "Invalid Input";
+"notification_body" = "Tap here to get the link to your notes";
 
-//Imperial
-"weight_title_imp"="Your weight (lb)";
-"height_title_imp"="Your height (in)";
+"AddNote_title" = "Add Note";
+"EditNote_title" = "Edit Note";
 
-//Metric
-"weight_title_met"="Your weight (kg)";
-"height_title_met"="Your height (cm)";
+"AddList_title" = "Add List";
+"EditList_title" = "Edit List";
+
+"AddList_subtext" = "No items found, to add a new item click: ";

@@ -1,24 +1,30 @@
 /* 
   Localizable.strings
-  SoftLocal
+  SoftwareLocalisationProject
 
-  Created by Kyle Williamson on 25/02/2015.
+  Created by Kyle Williamson on 27/03/2015.
   Copyright (c) 2015 Kyle Williamson. All rights reserved.
 */
+"ToDoList_title" = "リストのアプリケーションを実行するには";
+"ToDoList_synchronise" = "同時にする";
 
-//ViewController
-"vc_title"="測定の所望の単位を選択してください";
-"imperial_btn"="帝国（ポンドインチ)";
-"metric_btn"="メトリック（キロとセンチメートル）";
+"AddMenu_subtext" = "あなたが作成したいノートの種類を選択";
 
-// InputViewController
-"input_title"="";
-"input_btn"="";
+"button_ok" = "はい";
+"label_content" = "コンテンツ";
+"label_add" = "加える";
+"label_edit" = "編集";
+"label_title" = "タイトル";
+"label_addItem" = "アイテムの追加";
+"label_cancel" = "キャンセル";
+"label_errorTitle" = "エラー";
+"label_errorMessage" = "無効入力";
+"notification_body" = "あなたのノートへのリンクを取得するにはここをタップ";
 
-//Imperial
-"weight_title_imp"="";
-"height_title_imp"="";
+"AddNote_title" = "メモの追加";
+"EditNote_title" = "編集メモ";
 
-//Metric
-"weight_title_met"="";
-"height_title_met"="";
+"AddList_title" = "リストを追加";
+"EditList_title" = "編集リスト";
+
+"AddList_subtext" = "いいえアイテムは新しいアイテムのクリックを追加するには、見つかりませんでした。 ";

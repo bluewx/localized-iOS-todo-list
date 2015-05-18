@@ -1,24 +1,30 @@
 /* 
   Localizable.strings
-  SoftLocal
+  SoftwareLocalisationProject
 
-  Created by Kyle Williamson on 25/02/2015.
+  Created by Kyle Williamson on 27/03/2015.
   Copyright (c) 2015 Kyle Williamson. All rights reserved.
 */
+"ToDoList_title" = "Zur Liste Anwendungs ​​Sie";
+"ToDoList_synchronise" = "Synchronisieren";
 
-//ViewController
-"vc_title"=" Bitte wählen Sie die gewünschte Maßeinheit";
-"imperial_btn" = "Imperial ( Pfund und Zoll ) ";
-"metric_btn" = "Metric ( Kilogramm und Zentimeter )";
+"AddMenu_subtext" = "Wählen Sie den Typ der Notiz, die Sie erstellen möchten";
 
-// InputViewController
-"input_title"="";
-"input_btn"="";
+"button_ok" = "Sicher";
+"label_content" = "Inhalt";
+"label_add" = "Hinzufügen";
+"label_edit" = "Bearbeiten";
+"label_title" = "Titel";
+"label_addItem" = "Element hinzufügen";
+"label_cancel" = "Rückgängig Machen";
+"label_errorTitle" = "Fehler";
+"label_errorMessage" = "Ungültige Eingabe";
+"notification_body" = "Tippen Sie hier, um den Link zu Ihrer Notizen erhalten";
 
-//Imperial
-"weight_title_imp"="";
-"height_title_imp"="";
+"AddNote_title" = "Fügen Sie eine Anmerkung";
+"EditNote_title" = "Bearbeiten Sie die Anmerkung";
 
-//Metric
-"weight_title_met"="";
-"height_title_met"="";
+"AddList_title" = "Fügen Sie eine Liste";
+"EditList_title" = "Bearbeiten Sie die Liste";
+
+"AddList_subtext" = "Keine Artikel gefunden , um ein neues Element hinzuzufügen , klicken Sie : ";

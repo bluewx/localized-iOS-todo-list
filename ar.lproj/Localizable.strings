@@ -1,0 +1,30 @@
+/* 
+  Localizable.strings
+  SoftwareLocalisationProject
+
+  Created by Kyle Williamson on 27/03/2015.
+  Copyright (c) 2015 Kyle Williamson. All rights reserved.
+*/
+"ToDoList_title" = "هل ل قائمة التطبيقات";
+"ToDoList_synchronise" = "مزامنة";
+
+"AddMenu_subtext" = "حدد نوع الملاحظة التي ترغب في إنشاء";
+
+"button_ok" = "حسنا";
+"label_content" = "مضمون";
+"label_add" = "أضاف";
+"label_edit" = "تحري";
+"label_title" = "سمى";
+"label_addItem" = "إضافة عنصر";
+"label_cancel" = "إلغاء";
+"label_errorTitle" = "خطأ";
+"label_errorMessage" = "المدخلات غير صالحة";
+"notification_body" = "اضغط هنا للحصول على رابط إلى ملاحظاتك";
+
+"AddNote_title" = "إضافة ملاحظة";
+"EditNote_title" = "تحرير مذكرة";
+
+"AddList_title" = "إضافة قائمة";
+"EditList_title" = "تحرير قائمة";
+
+"AddList_subtext" = "لا يوجد سلع ، لإضافة الجديد نقرة البند :";
